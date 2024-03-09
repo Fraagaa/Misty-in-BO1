@@ -1,2 +1,3 @@
 # Misty-in-BO1
-Adds misty to Black Ops
+To install decompress the .rar in your black ops folder 
+(C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops)
